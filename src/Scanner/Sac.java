@@ -19,6 +19,13 @@ public class Sac {
 	System.out.println("nextLine"+sc.nextLine());
 	System.out.println("Boolean"+sc.nextBoolean());
 	System.out.println("Nextdouble"+sc.nextDouble());
+	//for git purpose i have coped the same
+	System.out.println("Float"+sc.nextFloat());
+	System.out.println("Long"+sc.nextLong());
+	System.out.println("next"+sc.next());
+	System.out.println("nextLine"+sc.nextLine());
+	System.out.println("Boolean"+sc.nextBoolean());
+	System.out.println("Nextdouble"+sc.nextDouble());
 	}
 	
 	
